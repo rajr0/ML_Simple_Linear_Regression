@@ -1,5 +1,5 @@
 # ML_Simple_Linear_Regression
-This repository holds the material for to be shared at teh upcoming ML meetup on Dec 13.
+This repository contains the material to be shared at the upcoming ML meetup on Dec 13.
 Items included are:-
 - Sample datasets
 - Python executable files
